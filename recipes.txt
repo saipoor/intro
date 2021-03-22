@@ -1,2 +1,3 @@
 hi
-my favourite dish is chicken curry
+my favourite dish is chicken curry.
+what about you?
